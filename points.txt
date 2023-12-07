@@ -1,0 +1,65 @@
+
+
+RAZAS
+    Jefe Marketing
+    WordPress Developer
+    FrontEnd
+    BackEnd
+    Full-Stack
+
+
+
+ATRIBUTOS
+    MANA 25
+
+
+
+RAZAS           Coding      Nego        Chamuyo     Sabiduría       Salario     
+    MARK          -3           3            2          -2               3           
+    WP            -1           2            1           0               1                     
+    Front          2           0           -1           2               0          
+    Back           3          -2           -3           3               2           
+    FS             1           0            1           1               0 
+
+
+nivel-1           Coding      Nego        Chamuyo     Sabiduría       Salario     
+    MARK          -3           4            2          -1               4           
+    WP             0           2            2           0               2                     
+    Front          2           1           -1           3               1          
+    Back           4           0           -3           3               2           
+    FS             1           2            1           1               1
+    
+
+nivel-2           Coding      Nego        Chamuyo     Sabiduría       Salario     
+    MARK          -3           4            3           0               5           
+    WP             1           2            2           1               3                     
+    Front          3           1            0           3               2          
+    Back           4           1           -3           4               3           
+    FS             2           2            1           2               2 
+
+
+nivel-2p          Coding      Nego        Chamuyo     Sabiduría       Salario     
+    MARK          -3           3            3           0               3           
+    WP             1           1            2           1               1                     
+    Front          3           0            0           3               0          
+    Back           4           0           -3           4               1           
+    FS             2           1            1           2               0 
+
+
+
+
+
+
+
+RAZAS
+    Jefe Marketing
+    WordPress Developer
+    FrontEnd
+    BackEnd
+    Full-Stack
+RAZAS
+    Jefe Marketing
+    WordPress Developer
+    FrontEnd
+    BackEnd
+    Full-Stack
