@@ -1,0 +1,27 @@
+
+
+// Mensaje de Bienvenida
+
+// > Instrucciones
+
+// Recolectar datos del Usuario
+     Nombre
+     RazaSeleccionada
+     MANA_Distrib
+
+
+Mostrar Reglamentos
+
+Mostrar Carácterísticas Razas
+    characters.html
+
+// > Continuar
+
+// Comenzar Batalla
+     botones COMENZAR / sEGUIR
+     contador 1 / 3
+     Intervals
+
+// Results
+
+    > Empezar Devuelta
